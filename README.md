@@ -15,7 +15,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-05122A?style=flat&logo=spring)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
 ![Quarkus](https://img.shields.io/badge/-Quarkus-05122A?style=flat&logo=quarkus)&nbsp;
