@@ -30,13 +30,13 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasmaciiel&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaciiel&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasmaciiel&show_icons=true&theme=vision-friendly-dark" alt="lucasmaciiel's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaciiel&layout=compact&theme=vision-friendly-dark" alt="lucasmaciiel's most languages"/>
 </p>
 
 <br><br>
 
-## 👨🦲 &nbsp;Social Links
+## 👨 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/lucasmacielgois/" target="_blank">
