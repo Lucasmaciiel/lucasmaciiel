@@ -7,7 +7,7 @@
 
 - 🔥 Back-end Software Engineer
 
-- 🔭 I’m currently working at Compass UOL
+- 🔭 I’m currently working at BRQ Digital Solutions
 
 - 💬 Ask me about **Java, Spring Boot, Quarkus, Rest APIs**
 
