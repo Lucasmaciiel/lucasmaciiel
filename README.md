@@ -30,7 +30,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasmaciiel&show_icons=true&theme=vision-friendly-dark" alt="lucasmaciiel's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasmaciiel&show_icons=true&theme=vision-friendly-dark" alt="lucasmaciiel's status"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaciiel&layout=compact&theme=vision-friendly-dark" alt="lucasmaciiel's most languages"/>
 </p>
 
